@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarkCybernaut (Felix Caraballo)
-- 👀 I’m interested in HTML, CSS, PHP, JS and PineScript
-- 🌱 I’m currently learning ... PineScript & Node React
+- 👀 I use HTML, CSS, PHP, JS, Liquid, Typescript, Node / React & PineScript
+- 🌱 I’m currently learning... Typescript, Python & Rust
 - 📫 How to reach me ... support@polycaravan.com
 
 <!---
