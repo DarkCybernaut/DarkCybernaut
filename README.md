@@ -1,6 +1,6 @@
 # Felix Caraballo
 
-**Senior Full-Stack Engineer** · Winter Haven, FL · Available for freelance
+**Senior Full-Stack Engineer** · Winter Haven, FL
 
 ---
 
