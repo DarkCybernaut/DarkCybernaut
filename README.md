@@ -48,11 +48,10 @@ Laravel Forge · CI/CD Pipelines · Git · Linear
 
 ## Upwork
 
-[![Top Rated Plus](https://img.shields.io/badge/Upwork-Top%20Rated%20Plus-brightgreen?style=flat-square&logo=upwork)](https://www.upwork.com/freelancers/~015b5f8a7c3d3ae9a2)
+[![Top Rated](https://img.shields.io/badge/Upwork-Top%20Rated%20Plus-brightgreen?style=flat-square&logo=upwork)](https://www.upwork.com/freelancers/~015b5f8a7c3d3ae9a2)
 [![100% Job Success](https://img.shields.io/badge/Job%20Success-100%25-brightgreen?style=flat-square)](https://www.upwork.com/freelancers/~015b5f8a7c3d3ae9a2)
-[![Rate](https://img.shields.io/badge/Rate-%2460%2Fhr-blue?style=flat-square)](https://www.upwork.com/freelancers/~015b5f8a7c3d3ae9a2)
 
-100% Job Success · Top Rated Plus
+100% Job Success · Top Rated
 
 ---
 
